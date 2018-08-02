@@ -3,6 +3,6 @@
 ## Description
 
 Simple web server on Python 3.5 with:
-*GET
-*CGI
-*Basic Authentication
+* GET
+* CGI
+* Basic Authentication
